@@ -7,7 +7,6 @@ public class HazardSelecter : MonoBehaviour
     Image m_Image;
     public Sprite selectedHazard;
     public Sprite[] hazardList;
-    public bool hazardCorrect = true;
     int hazardOption;
 
     void Start()
